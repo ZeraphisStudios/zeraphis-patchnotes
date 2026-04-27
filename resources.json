@@ -21,6 +21,7 @@
       "1.3.0": [
         "Added AI image detection checker with strict detection defaults ",
         "Added GitHub-based version checker.",
+        "Changed the vec3 to vector4",
         "Fixed bug where you could not open the storage.",
         "Fixed bug where you could not open the stock shop."
       ]
