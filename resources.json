@@ -1,6 +1,6 @@
 {
   "zeraphis-plushiecreator": {
-    "repo": "your-user/your-repo",
+    "repo": "ZeraphisStudios/zeraphis-patchnotes",
     "versions": {
       "1.0.0": [
         "Release of the script"
@@ -19,9 +19,10 @@
         "Fixed bug where when you had ace perms you could not access the admin commands"
       ],
       "1.3.0": [
-        "Improved AI checker with stricter detection defaults, clearer operator logs, and Discord webhook embeds that include server and detector context.",
-        "Added GitHub-based version checker with txAdmin-friendly out-of-date output (current version, latest version, and patch-note bullets).",
-        "Added support for multi-version patch notes feed so txAdmin can display changes across missed versions."
+        "Added AI image detection checker with strict detection defaults ",
+        "Added GitHub-based version checker.",
+        "Fixed bug where you could not open the storage.",
+        "Fixed bug where you could not open the stock shop."
       ]
     }
   }
