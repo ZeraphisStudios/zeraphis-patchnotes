@@ -13,15 +13,15 @@
         "Per-store storage size — Storage is no longer global. Each store’s storage has its own slots and maxWeight (e.g. 100 slots, 1000000 maxWeight).",
         "Script optimised for performance and readability.",
         "Multiple files where changed.",
-        "Fixed bug where when you had ace perms you could not access the admin commands"
+        "Fixed bug where when you had ace perms you could not access the admin commands."
       ],
       "1.2.1": [
-        "Fixed bug where when you had ace perms you could not access the admin commands"
+        "Fixed bug where when you had ace perms you could not access the admin commands."
       ],
       "1.3.0": [
-        "Added AI image detection checker with strict detection defaults ",
+        "Added AI image detection checker with strict detection defaults.",
         "Added GitHub-based version checker.",
-        "Changed the vec3 to vector4",
+        "Changed the vec3 to vector4.",
         "Fixed bug where you could not open the storage.",
         "Fixed bug where you could not open the stock shop."
       ]
