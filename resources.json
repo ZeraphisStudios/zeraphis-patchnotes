@@ -1,0 +1,28 @@
+{
+  "zeraphis-plushiecreator": {
+    "repo": "your-user/your-repo",
+    "versions": {
+      "1.0.0": [
+        "Release of the script"
+      ],
+      "1.2.0": [
+        "Stock / materials NPC — Each store can have an NPC to buy fabric and stuffing at prices set in config (fabricPrice, stuffingPrice). Players choose amount (1–100) and pay with cash or bank.",
+        "Per-store job — Job is configured per store (no global Job). Each store has enabled, name, minGrade, and optional minBossGrade.",
+        "minBossGrade — Only players with grade >= minBossGrade can use the creator (design/create/edit/delete). Everyone with minGrade can use crafting, storage, and stock shop. If minBossGrade is not set, it falls back to minGrade.",
+        "Auto-detect — Config options Framework, Inventory, Target, and Notify can be set to 'auto' to auto-detect from started resources (qbx_core, qb-core, es_extended, ox_inventory, qb-inventory, ox_target, qb-target, ox_lib).",
+        "Per-store storage size — Storage is no longer global. Each store’s storage has its own slots and maxWeight (e.g. 100 slots, 1000000 maxWeight).",
+        "Script optimised for performance and readability.",
+        "Multiple files where changed.",
+        "Fixed bug where when you had ace perms you could not access the admin commands"
+      ],
+      "1.2.1": [
+        "Fixed bug where when you had ace perms you could not access the admin commands"
+      ],
+      "1.3.0": [
+        "Improved AI checker with stricter detection defaults, clearer operator logs, and Discord webhook embeds that include server and detector context.",
+        "Added GitHub-based version checker with txAdmin-friendly out-of-date output (current version, latest version, and patch-note bullets).",
+        "Added support for multi-version patch notes feed so txAdmin can display changes across missed versions."
+      ]
+    }
+  }
+}
