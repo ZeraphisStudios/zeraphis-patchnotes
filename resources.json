@@ -12,7 +12,6 @@
         "Auto-detect — Config options Framework, Inventory, Target, and Notify can be set to 'auto' to auto-detect from started resources (qbx_core, qb-core, es_extended, ox_inventory, qb-inventory, ox_target, qb-target, ox_lib).",
         "Per-store storage size — Storage is no longer global. Each store’s storage has its own slots and maxWeight (e.g. 100 slots, 1000000 maxWeight).",
         "Script optimised for performance and readability.",
-        "Multiple files where changed.",
         "Fixed bug where when you had ace perms you could not access the admin commands."
       ],
       "1.2.1": [
@@ -20,10 +19,44 @@
       ],
       "1.3.0": [
         "Added AI image detection checker with strict detection defaults.",
-        "Added GitHub-based version checker.",
         "Changed the vec3 to vector4.",
         "Fixed bug where you could not open the storage.",
         "Fixed bug where you could not open the stock shop."
+      ]
+    }
+  },
+  "zeraphis-carradio": {
+    "repo": "ZeraphisStudios/zeraphis-carradio",
+    "versions": {
+      "1.0.0": [
+        "Initial release of the script."
+      ],
+      "1.0.1": [
+        "Convoy Sync — group radio playback across multiple vehicles. (Fixed not being able to accept invites)",
+        "Convoy leader controls play, pause, stop, seek, volume, and track/URL changes.",
+        "Convoy members follow leader playback on their own vehicle radio.",
+        "Convoy disband button added."
+      ],
+      "1.0.2": [
+        "UI polish — reduced purple glow on playlist panel & overlay corner clipping fixes.",
+        "Fixed issue where music would continue playing at times.",
+        "Character display names on convoy invites."
+      ],
+      "1.0.3": [
+        "Invite accept/decline still works via on-screen buttons; optional Enter/Esc shortcuts added."
+      ],
+      "1.0.4": [
+        "Convoy volume is per vehicle — leader volume no longer overwrites every member’s car.",
+        "Convoy members can pause/play locally without affecting the leader or other cars.",
+        "Added ability for other members in convoy to pause it then it syncs back up when they unpause.",
+        "Leaving a vehicle no longer stops the radio for everyone.",
+        "fixed an issue with audio not stopping at times when you would pause it.",
+        "Players who walk into range after a song started now hear it."
+      ],
+      "1.0.5": [
+        "Added spawn validation music will no longer play until you have fully loaded in and are in range of a vehicle that has music on.",
+        "Server convoy resync only runs when the leader is actually playing.",
+        "Stability fixes for convoy invite dismiss focus and late-join audible sync."
       ]
     }
   }
