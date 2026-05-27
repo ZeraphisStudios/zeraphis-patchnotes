@@ -71,6 +71,7 @@
         "Fixed issue where artist name would not show.",
         "Added Engine & door logic (Muffle bass with doors closed & Volume duck when engine off).",
         "Added EQ system.",
+        "Added better validation for checking for music playing and area validation.",
         "Minor optimisation to make the script run smoother."
       ]
     }
