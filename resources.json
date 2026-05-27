@@ -59,8 +59,12 @@
         "Stability fixes for convoy invite dismiss focus and late-join audible sync."
       ],
       "1.0.6": [
-        "Version checker issue where download url would not show fixed",
-        "Version checker patchnotes added"
+        "Version checker added",
+        "Added spotify intergration (Config.Spotify).",
+        "Fixed issue where when you would skip ahead in a song it would not for other players.",
+        "Fixed GetNetworkObject error in f8 console that would appear at times.",
+        "Added more languages",
+        "Minor optimisation to make the script run smoother."
       ]
     }
   }
