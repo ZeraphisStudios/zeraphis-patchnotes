@@ -70,6 +70,7 @@
         "added queue system.",
         "Fixed issue where artist name would not show.",
         "Added Engine & door logic (Muffle bass with doors closed & Volume duck when engine off).",
+        "Added EQ system.",
         "Minor optimisation to make the script run smoother."
       ]
     }
