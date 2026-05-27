@@ -60,10 +60,16 @@
       ],
       "1.0.6": [
         "Version checker added",
-        "Added spotify intergration (Config.Spotify).",
+        "Added spotify intergration.",
         "Fixed issue where when you would skip ahead in a song it would not for other players.",
         "Fixed GetNetworkObject error in f8 console that would appear at times.",
-        "Added more languages",
+        "Added support for more languages.",
+        "Added language tab to the settings page for people to choose a language of there choice.",
+        "Removed error popping up when you would use the radio keybind or command.",
+        "Added ability to change keybinds for accept and decline on convoy invites.",
+        "added queue system.",
+        "Fixed issue where artist name would not show.",
+        "Added Engine & door logic (Muffle bass with doors closed & Volume duck when engine off)",
         "Minor optimisation to make the script run smoother."
       ]
     }
