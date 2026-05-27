@@ -26,8 +26,7 @@
     }
   },
   "zeraphis-carradio": {
-    "repo": "ZeraphisStudios/zeraphis-carradio",
-    "url": "https://portal.cfx.re/assets/granted-assets?page=1&sort=asset.updated_at&direction=asc",
+    "url": "https://portal.cfx.re",
     "versions": {
       "1.0.0": [
         "Initial release of the script."
