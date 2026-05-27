@@ -59,9 +59,8 @@
         "Stability fixes for convoy invite dismiss focus and late-join audible sync."
       ],
       "1.0.6": [
-        "Test",
-        "Test2",
-        "Test3"
+        "Version checker issue where download url would not show fixed",
+        "Version checker patchnotes added"
       ]
     }
   }
