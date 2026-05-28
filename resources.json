@@ -84,6 +84,9 @@
       ],
       "1.0.8": [
         "Fixed issue where changing the eq would cause you not to be able to go above 50% volume"
+      ],
+      "1.0.9": [
+        "Fixed issue that was causing occasional crashes"
       ]
     }
   },
