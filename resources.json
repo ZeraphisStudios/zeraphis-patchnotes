@@ -81,6 +81,9 @@
       ],
       "1.0.7": [
         "Fixed issue where music would not play when you exit a vehicle"
+      ],
+      "1.0.8": [
+        "Fixed issue where changing the eq would cause you not to be able to go above 50% volume"
       ]
     }
   },
