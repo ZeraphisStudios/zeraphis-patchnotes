@@ -109,5 +109,13 @@
         "Queued dirty refunds are granted on player load, not only when visiting a washer."
       ]
     }
+  },
+  "zeraphis-safezonecreator": {
+    "url": "https://portal.cfx.re",
+    "versions": {
+      "1.0.0": [
+        "Initial release of the script."
+      ]
+    }
   }
 }
