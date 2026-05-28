@@ -59,10 +59,11 @@
         "Stability fixes for convoy invite dismiss focus and late-join audible sync."
       ],
       "1.0.6": [
-        "Re wrote 60% - 70% of the script",
+        "Re wrote alot of the script",
         "Added version checker",
         "Added support for more languages.",
         "Added language tab to the settings page for people to choose a language of there choice.",
+        "Added control tab to the settings to assist people",
         "Added ability to change keybinds for accept and decline on convoy invites.",
         "Added queue system.",
         "Added better engine & door logic (Muffle bass with doors closed & Volume duck when engine off).",
