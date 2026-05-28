@@ -74,6 +74,7 @@
         "Fixed issue where artist name would not show.",
         "Fixed issue where convoy would disband at times.",
         "Fixed issue where the ui would freeze on a rare occasion.",
+        "Fixed issue where pressing play all on a playlist would not play all.",
         "Fixed issue where the ui would remain on screen when the resource would get restarted.",
         "Removed error popping up when you would use the radio keybind or command.",
         "Minor optimisation to make the script run smoother."
