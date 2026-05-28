@@ -105,7 +105,7 @@
       "1.0.6": [
         "Added version checker.",
         "Fixed crash/disconnect refunds — mid-wash dirty money is queued or returned on reconnect.",
-        "Fixed offline wash completion — clean payouts persist to the database if player disconnects before collect.",
+        "Fixed offline completion — clean persist to the database if player disconnects before collect.",
         "Queued dirty refunds are granted on player load, not only when visiting a washer."
       ]
     }
