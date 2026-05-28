@@ -80,5 +80,34 @@
         "Minor optimisation to make the script run smoother."
       ]
     }
+  },
+  "zeraphis-moneywash": {
+    "url": "https://portal.cfx.re",
+    "versions": {
+      "1.0.0": [
+        "Initial release of the script."
+      ],
+      "1.0.1": [
+        "Fixed issue with tax not correctly adding up."
+      ],
+      "1.0.2": [
+        "Fixed issue where crim coins would add up incorrectly."
+      ],
+      "1.0.3": [
+        "Added feature where the max ammount you wont be able to go over."
+      ],
+      "1.0.4": [
+        "Added admin logs."
+      ],
+      "1.0.5": [
+        "Advanced money wash system with dynamic tax, admin panel, and database-backed washer locations."
+      ],
+      "1.0.6": [
+        "Added version checker.",
+        "Fixed crash/disconnect refunds — mid-wash dirty money is queued or returned on reconnect.",
+        "Fixed offline wash completion — clean payouts persist to the database when the player disconnects before collect.",
+        "Queued dirty refunds are granted on player load, not only when visiting a washer."
+      ]
+    }
   }
 }
