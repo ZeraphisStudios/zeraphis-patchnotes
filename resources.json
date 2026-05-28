@@ -59,21 +59,21 @@
         "Stability fixes for convoy invite dismiss focus and late-join audible sync."
       ],
       "1.0.6": [
+        "Re wrote 60% - 70% of the script",
         "Added version checker",
-        "Added spotify intergration.",
-        "Added Apple Music intergration.",
-        "Added Soundcloud intergration.",
         "Added support for more languages.",
         "Added language tab to the settings page for people to choose a language of there choice.",
         "Added ability to change keybinds for accept and decline on convoy invites.",
         "Added queue system.",
-        "Added Engine & door logic (Muffle bass with doors closed & Volume duck when engine off).",
+        "Added better engine & door logic (Muffle bass with doors closed & Volume duck when engine off).",
         "Added EQ system.",
         "Added better validation for checking for music playing and area validation.",
         "Fixed issue where when you would skip ahead in a song it would not for other players.",
         "Fixed GetNetworkObject error in f8 console that would appear at times.",
         "Fixed issue where artist name would not show.",
         "Fixed issue where convoy would disband at times.",
+        "Fixed issue where the ui would freeze on a rare occasion.",
+        "Fixed issue where the ui would remain on screen when the resource would get restarted.",
         "Removed error popping up when you would use the radio keybind or command.",
         "Minor optimisation to make the script run smoother."
       ]
