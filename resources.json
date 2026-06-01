@@ -89,9 +89,13 @@
         "Fixed issue that was causing occasional crashes"
       ],
       "1.1.0": [
-        "Revamped admin UI",
-        "Fixed SQL issue",
-        "Fixed a few minor issues"
+        "Added more themes & layouts",
+        "Fixed track slider not changing for other people",
+        "Fixed queue not showing correct song",
+        "Fixed track slider not going up at times",
+        "Fixed incorrect song showing as playing",
+        "Fixed play all button not working on playlists",
+        "Fixed crashing at times when you would open the ui"
       ]
     }
   },
@@ -121,6 +125,11 @@
         "Fixed crash/disconnect refunds — mid-wash dirty money is queued or returned on reconnect.",
         "Payouts save to DB if disconnected before collect.",
         "Queued dirty refunds are granted on player load, not only when visiting a washer."
+      ],
+      "1.0.7": [
+        "Revamped admin UI",
+        "Fixed SQL issue",
+        "Fixed a few minor issues"
       ]
     }
   },
