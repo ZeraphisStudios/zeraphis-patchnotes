@@ -87,6 +87,11 @@
       ],
       "1.0.9": [
         "Fixed issue that was causing occasional crashes"
+      ],
+      "1.1.0": [
+        "Revamped admin UI",
+        "Fixed SQL issue",
+        "Fixed a few minor issues"
       ]
     }
   },
@@ -116,6 +121,14 @@
         "Fixed crash/disconnect refunds — mid-wash dirty money is queued or returned on reconnect.",
         "Payouts save to DB if disconnected before collect.",
         "Queued dirty refunds are granted on player load, not only when visiting a washer."
+      ]
+    }
+  },
+  "zeraphis-adminmenu": {
+    "url": "https://portal.cfx.re",
+    "versions": {
+      "1.0.0": [
+        "Initial release of the script."
       ]
     }
   },
