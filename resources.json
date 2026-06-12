@@ -89,13 +89,27 @@
         "Fixed issue that was causing occasional crashes"
       ],
       "1.1.0": [
-        "Added more themes & layouts",
-        "Fixed track slider not changing for other people",
-        "Fixed queue not showing correct song",
-        "Fixed track slider not going up at times",
-        "Fixed incorrect song showing as playing",
-        "Fixed play all button not working on playlists",
-        "Fixed crashing at times when you would open the ui"
+        "Minor bug fixes and optimisations."
+      ],
+      "1.1.1": [
+        "[NEW FEATURE] Added more themes.",
+        "[NEW FEATURE] Added YouTubePlayback.Mode config option.",
+        "[NEW FEATURE] Added persistent named and password locked convoys.",
+        "[IMPROVEMENT] Improved convoy invite handling and NUI focus safety.",
+        "[IMPROVEMENT] Added guards around URL input usage.",
+        "[IMPROVEMENT] Added better stream resolver validation.",
+        "[IMPROVEMENT] Overall improvement to the stability of the script.",
+        "[BUG FIX] Fixed track slider not syncing correctly for other people.",
+        "[BUG FIX] Fixed queue not showing correct song.",
+        "[BUG FIX] Fixed convoy delay.",
+        "[BUG FIX] Fixed UI not showing up at times.",
+        "[BUG FIX] Fixed track slider not going up at times.",
+        "[BUG FIX] Fixed incorrect song showing as playing.",
+        "[BUG FIX] Fixed play all button not working on playlists.",
+        "[BUG FIX] Fixed crashing at times when you would open the ui.",
+        "[BUG FIX] Fixed an issue where you would hear music at random times even if no one was playing music nearby.",
+        "[UPCOMING] Adding support for more audio sources.",
+        "[UPCOMING] Adding a custom ui for media player when the radio is not open that can be moved around & toggled off."
       ]
     }
   },
