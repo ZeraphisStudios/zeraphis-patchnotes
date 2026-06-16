@@ -176,6 +176,27 @@
         "Admin panel — list, create, open, teleport, delete, transfer ownership, and access mode controls.",
         "Object gizmo placement, pack-up, move, rename, and stash migration command.",
         "Configurable notifications (ox_lib, esx_notify, qb_notify) and version checker."
+      ],
+      "1.1.0": [
+        "Overhauled the storage system to be more efficient and easier to use.",
+        "Overhauled the storage system UI with a new Zeraphis purple and gold theme.",
+        "Added storage lockpick for criminals to breach storage units with a multi-stage skill check.",
+        "Added storage jammer for criminals to block owner Discord alerts for a configurable duration during a raid.",
+        "Added storage replacement lock so owners and anyone with access can repair a damaged passcode lock after a breach without changing the code.",
+        "Added storage raider for police to raid locked storage units and access the contents inside.",
+        "Added damaged lock state after a successful police or criminal breach when passcode mode is enabled.",
+        "Added separate police and criminal breach paths with configurable items, skill checks, and consumption options.",
+        "Added version checker with patch notes lookup on resource start.",
+        "Added configurable notifications (ox_lib, esx_notify, qb_notify).",
+        "Added maxstorageperplayer config to limit how many storages a player can own.",
+        "Added disablesqllogs config to skip SQL activity logging and hide the Storage Logs UI when disabled.",
+        "Added consumeraiditem and consumecrimbreachitem configs to optionally consume breach items when a minigame starts.",
+        "Added allowcrimstobreach, allowjammeritem, and lockdamagedonraid configs to toggle criminal breach, jammer, and lock damage features.",
+        "Added police raid skill check with configurable difficulty rounds and key pool.",
+        "Added criminal breach skill check with configurable stages and delay between rounds.",
+        "Added owner Discord webhook support with per-storage alerts and jammer suppression.",
+        "Added admin panel improvements including owner character name display and Storage Logs tab hidden when SQL logs are disabled.",
+        "Added inventory item images for storage_lockpick, storage_jammer, and storage_replacement_lock."
       ]
     }
   }
