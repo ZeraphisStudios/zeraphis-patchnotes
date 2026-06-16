@@ -179,7 +179,7 @@
       ],
       "1.1.0": [
         "Overhauled the storage system to be more efficient and easier to use.",
-        "Overhauled the storage system UI with a new Zeraphis purple and gold theme.",
+        "Overhauled the storage system UI.",
         "Added storage lockpick for criminals to breach storage units with a multi-stage skill check.",
         "Added storage jammer for criminals to block owner Discord alerts for a configurable duration during a raid.",
         "Added storage replacement lock so owners and anyone with access can repair a damaged passcode lock after a breach without changing the code.",
