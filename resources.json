@@ -196,6 +196,7 @@
         "Added criminal breach skill check with configurable stages and delay between rounds.",
         "Added owner Discord webhook support with per-storage alerts and jammer suppression.",
         "Added admin panel improvements including owner character name display and Storage Logs tab hidden when SQL logs are disabled.",
+        "Added colour theme options for the UI's.",
         "Added inventory item images for storage_lockpick, storage_jammer, and storage_replacement_lock."
       ]
     }
