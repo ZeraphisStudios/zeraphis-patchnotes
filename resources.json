@@ -162,5 +162,21 @@
         "Initial release of the script."
       ]
     }
+  },
+  "zeraphis-storage": {
+    "url": "https://portal.cfx.re",
+    "versions": {
+      "1.0.0": [
+        "Initial release of the storage system.",
+        "Placeable small, medium, and large storage props with ox_inventory / qb-inventory support.",
+        "Access control — owner whitelist, passcode mode, public/job access, and granular per-player permissions.",
+        "Temporary access keys with timed or restart-only expiry.",
+        "Police raid system with configurable skill check, breaching item, and consumable raid tool option.",
+        "Owner Discord webhooks and optional SQL activity logs (configurable).",
+        "Admin panel — list, create, open, teleport, delete, transfer ownership, and access mode controls.",
+        "Object gizmo placement, pack-up, move, rename, and stash migration command.",
+        "Configurable notifications (ox_lib, esx_notify, qb_notify) and version checker."
+      ]
+    }
   }
 }
