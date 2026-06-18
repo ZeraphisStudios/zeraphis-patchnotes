@@ -113,6 +113,7 @@
       ],
       "1.1.2": [
         "[BUG FIX] Fixed issue that would prevent songs that where over an hour long from playing.",
+        "[BUG FIX] Fixed issue where songs would not play when they was queued or if you press play all and you was outside of a vehicle.",
         "[ADDED] Added rate limiting."
       ]
     }
