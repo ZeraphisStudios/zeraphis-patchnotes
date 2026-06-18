@@ -112,7 +112,8 @@
         "[UPCOMING] Adding a custom ui for media player when the radio is not open that can be moved around & toggled off."
       ],
       "1.1.2": [
-        "Fixed issue that would prevent songs that where over an hour long from playing."
+        "[BUG FIX] Fixed issue that would prevent songs that where over an hour long from playing.",
+        "[ADDED] Added rate limiting."
       ]
     }
   },
