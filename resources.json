@@ -110,6 +110,9 @@
         "[BUG FIX] Fixed an issue where you would hear music at random times even if no one was playing music nearby.",
         "[UPCOMING] Adding support for more audio sources.",
         "[UPCOMING] Adding a custom ui for media player when the radio is not open that can be moved around & toggled off."
+      ],
+      "1.1.2": [
+        "Fixed issue that would prevent songs that where over an hour long from playing."
       ]
     }
   },
@@ -198,9 +201,6 @@
         "Added admin panel improvements including owner character name display and Storage Logs tab hidden when SQL logs are disabled.",
         "Added colour theme options for the UI's.",
         "Added inventory item images for storage_lockpick, storage_jammer, and storage_replacement_lock."
-      ],
-      "1.1.1": [
-        "Fixed issue that would prevent songs that where over an hour long from playing."
       ]
     }
   }
